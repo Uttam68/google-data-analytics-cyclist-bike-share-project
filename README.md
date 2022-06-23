@@ -12,4 +12,6 @@ Then I used the tableau for the visualisation purpose.
 
 ![Sheet 1](https://user-images.githubusercontent.com/94991203/175238190-2a74673f-cf7a-41c4-a932-b2bdc8dbea19.png)
 
+From this line graph it is clear that the ride duration of the casual users is far more than the member users. There is a drastical change(more ride duration) in the ride duration in the summer season for the casual users. For the member users it also increases in the summer but not like as for the casual riders.
+
 
