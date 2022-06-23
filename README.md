@@ -8,4 +8,8 @@ I haved used python for  merging the datasets of the last 12 monthes and to clea
 Then I dropped the unnecessary columns to make our analysis easier.
 Then I used the tableau for the visualisation purpose.
 
-from the dashboard 1
+
+
+![Sheet 1](https://user-images.githubusercontent.com/94991203/175238190-2a74673f-cf7a-41c4-a932-b2bdc8dbea19.png)
+
+
